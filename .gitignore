@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.pyo
+
+# --- Virtual environments ---
+venv/
+env/
+ENV/
+.venv/
+
+# --- PyInstaller / Build artifacts ---
+build/
+dist/
+*.spec
+
+# --- PyCharm / IntelliJ IDEA ---
+.idea/
+*.iml
+
+# --- Logs / Misc ---
+*.log
+.DS_Store
+Thumbs.db
