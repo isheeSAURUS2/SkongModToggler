@@ -20,7 +20,7 @@ this is what the ui looks like and what the file folders do
 ![skongmm](/ReadmeSource/skongmm.gif)
 
 
-### ui:
+### after:
 
 ![after skongmm](/ReadmeSource/skongfiles2.png)
 
