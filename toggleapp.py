@@ -80,7 +80,7 @@ def toggle_action(path_var, switchvar):
 # --- UI Setup ---
 root = tk.Tk()
 root.title("Silksong Mods Manager")
-root.geometry("650x650")
+root.geometry("450x450")
 root.configure(bg="#2b2b2b")
 
 # Apply dark theme
